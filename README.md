@@ -7,7 +7,7 @@ Run mvn archetype:generate
 -DartifactId=cse2102
 -DarchetypeArtifactId=maven-archetype-quickstart
 -DinteractiveMode=false
-
+(taken directly from lab guide)
 
 ## 2. Download files in github. Add test files to the test directory in mvn, and other classes to main in mvn
 
